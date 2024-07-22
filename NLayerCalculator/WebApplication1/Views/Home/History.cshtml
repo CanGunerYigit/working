@@ -1,0 +1,43 @@
+﻿@model List<Calculator.CommonLayer.Dto.CalculationHistory>
+
+@{
+    ViewBag.Title = "İşlem Geçmişi";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h2>İşlem Geçmişi</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>First Number</th>
+                    <th>Second Number</th>
+                    <th>Operation</th>
+                    <th>Expression</th>
+                    <th>Result</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Number1</td>
+                        <td>@item.Number2</td>
+                        <td>@item.Operation</td>
+                        <td>@item.Expression</td>
+                        <td>@item.Result</td>
+                        <td>@item.Timestamp</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

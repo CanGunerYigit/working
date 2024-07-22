@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\commonlayer\\dto\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\dto\\calculationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\commonlayer\\dto\\adddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\dto\\adddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\extensions\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\extensions\\sessionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9404BFDF-5CFF-4E85-B2B9-87DD9794A84A}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9404BFDF-5CFF-4E85-B2B9-87DD9794A84A}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\commonlayer\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A5DDC-C596-4142-8FCD-AD70162D748D}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\dto\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|c:\\users\\34243\\source\\repos\\nlayercalculator\\nlayercalculator\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BD47BC-9A75-4303-9402-B6737199DCC7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-22T07:01:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:51:31.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwH8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T18:29:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGgAAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T18:29:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\CalculationHistory.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Dto\\CalculationHistory.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\CalculationHistory.cs",
+              "RelativeToolTip": "CommonLayer\\Dto\\CalculationHistory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:50:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Home\\History.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\History.cshtml",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Home\\History.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T14:33:42.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:01:54.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\BusinessLayer\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\BusinessLayer\\CalculatorService.cs",
+              "RelativeToolTip": "BusinessLayer\\CalculatorService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:19:57.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddDto.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\AddDto.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Dto\\AddDto.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\AddDto.cs",
+              "RelativeToolTip": "CommonLayer\\Dto\\AddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:35:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T08:10:17.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Extensions\\SessionExtentions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Extensions\\SessionExtentions.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Extensions\\SessionExtentions.cs",
+              "RelativeToolTip": "WebApplication1\\Extensions\\SessionExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:33:30.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:17:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T08:10:46.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\Result.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Dto\\Result.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\CommonLayer\\Dto\\Result.cs",
+              "RelativeToolTip": "CommonLayer\\Dto\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:35:28.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T18:29:18.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:29:10.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kInJ4cDKS5U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\34243\\source\\repos\\NLayerCalculator\\NLayerCalculator\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34243\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
